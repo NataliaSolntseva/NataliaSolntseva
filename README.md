@@ -29,7 +29,14 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="postgresql" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+<img align="left" alt="python" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="datalens" height="40px" src="https://static.tildacdn.com/tild3863-3965-4239-b431-316564656266/original_1_2.png"/>
+<img align="left" alt="plotly" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"/>
+<img align="left" alt="plotly" height="40px" src="https://matplotlib.org/stable/_static/logo_dark.svg"/>
+
+
 
 <!--
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
