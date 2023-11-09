@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Natalia Solntseva
 
 <!--
 **NataliaSolntseva/NataliaSolntseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm a systems analyst
+- 🔭 I currently work for a large systems integrator
+- 🌱 I am interested in data analysis and marketing
+
+<br />
+
+
